@@ -14,7 +14,7 @@ pillow (pil), which can be installed with the command pip install pillow
 
 matplotlib, which can be installed with the command pip install matplotlib
 
-EMNIST, which can be downloaded from https://www.kaggle.com/crawford/emnist and should be placed in the ‘data’ directory.
+EMNIST, which can be downloaded from https://www.kaggle.com/crawford/emnist and should be placed in the ‘./data/’ directory.
 
 You will also need a development environment which can read and display Python notebook files (.ipynb), Visual Studio: Code is the development environment that was used in this 
 project, it can be obtained from https://code.visualstudio.com/.
